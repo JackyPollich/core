@@ -1,4 +1,4 @@
-# Leo core functions
+* Leo core functions
 
 ## Run Guide
 
@@ -13,3 +13,4 @@ To execute this program, run:
 ```bash
 leo execute main
 ```
+ 
